@@ -37,7 +37,7 @@ insights into various aspects of human resource management, including employee d
  - Step 11 : Add shapes, title of the Employee Demographics dashboard.
  - Step 12 : Add KPIs : Headcount, Male Employees, %Male Employees, Female Employees, %Female Employees.
 
-    ![KPI1](https://github.com/user-attachments/assets/6babb68f-d951-4658-aa94-f4bee95b4d84)
+    ![KPI1](https://github.com/user-attachments/assets/b77ff0e0-e6ca-48ac-8849-ed086becdd2a)
 
  - Step 13 : Add bar charts Employee by Race, Marital Status, Department.
  - Step 14 : Create Age Groups ("Age(bins)").
@@ -49,7 +49,7 @@ insights into various aspects of human resource management, including employee d
  - Step 20 : Add navigation buttons.
  - Step 21 : Add KPIs : Average Salary, Median Salary, Min Salary, Max Salary.
  
- ![KPI2](https://github.com/user-attachments/assets/39a38d61-6a2f-4fc3-925d-f3f355d6d2da)
+![KPI2](https://github.com/user-attachments/assets/9645afdb-b210-4c2c-8ad1-c394088e6562)
 
  - Step 22 : Insert bar chart Average Salary by Department, donut chart Average Salary by Gender.
  - Step 23 : Insert table, filter 10 top employees.
@@ -59,11 +59,9 @@ insights into various aspects of human resource management, including employee d
 
 # Report
 
-![Dashboard0](https://github.com/user-attachments/assets/3d822a21-80fa-4bd1-b5b9-ec149eb8cca8)
-
-![Dashboard1](https://github.com/user-attachments/assets/1c8c07fe-7ad1-4833-a5f8-47d26039df07)
-
-![Dashboard2](https://github.com/user-attachments/assets/7928552f-c3d5-4bbf-a929-e48a01c34549)
+![Dashboard0](https://github.com/user-attachments/assets/0a388e7e-f04a-4003-8a85-a14e0f72e3be)
+![Dashboard1](https://github.com/user-attachments/assets/e2f342fc-6c7e-49e6-9c21-5fbcd5d31c72)
+![Dashboard2](https://github.com/user-attachments/assets/8a118364-9d84-4634-8230-4f4b9e5e7156)
 
 # Insights
 
