@@ -17,7 +17,7 @@ insights into various aspects of human resource management, including employee d
  - Step 8 : Check if Date format is correct.
  - Step 9 : Create connection in model.
 
-     ![model](https://github.com/user-attachments/assets/ca7fde4b-0fb4-4f50-a4f4-8008ed363c36)
+     ![model](https://github.com/user-attachments/assets/8b34514f-c9fa-467c-b151-439e3dde9d75)
 
  - Step 10 : Create measures for Average Salary, Headcount, Male Employees, %Male Employees, Female Employees, %Female Employees:
 
